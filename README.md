@@ -1,4 +1,7 @@
 # 🎬 YouTube Video Dubbing AI
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Whisper](https://img.shields.io/badge/OpenAI-Whisper-black)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 
 A Python pipeline that takes any YouTube video — in any language — and produces an English-dubbed version, powered by Whisper, machine translation, and Microsoft Edge's neural text-to-speech.
 
